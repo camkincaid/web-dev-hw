@@ -14,9 +14,9 @@ Things I learned about:
 
 ``This is my inline code``
 
- ***
+ ****
 [Here is the link to our class page!](https://media-ed-online.github.io/intro-web-dev/)
 
 This is the screenshot of my folders...![Screenshot Of my Directory](./images/screenshot-1.png)
 
-I have now published my repo to github. This process was a bit difficult but was able to figure it out :) 
+I have now published my repo to github. This process was a bit difficult but was able to figure it out :)
