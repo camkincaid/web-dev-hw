@@ -15,3 +15,10 @@
 * The forms were a bit of a struggle with the different table styles. And YIKES I'm starting to feel a tiny overwhelmed with all of the new tags we are learning (since I want to memorize them)
 * I'm still using the textbook which is extremely helpful
 * Overall, this part took me a while but with much trial and error I was finally able to figure it out and had a lot of fun while doing it!
+
+## Week #3 - HTML Pt. 3
+* This week was about adding media. I had a hard time getting the .mp4 and opened source version to work on my about me page! Embedding a video from Youtube was far easier since it was just a copy and paste.
+* Other added contents such as the map/email were pretty straight forward
+* One thing I am still unsure about is the purpose and use of the ID attribute
+* I went through and "cleaned up" all of my code on each page and made sure the metadata format was similar across all pages
+* Update: I fixed the problem of the video as it was source path error!
