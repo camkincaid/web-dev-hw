@@ -30,3 +30,6 @@ biggest problem I was struggling on was using external fonts through including a
 to a tennis court.
 * My readme is currently having issues as it seems text is overlapping in the readme view (The preview shows up ok). I keep getting error notifications...if anyone knows how to fix that?
 * Overall I learned a ton of new material and both laughed and cried while doing it.
+
+So I just uploaded my final work for what's due tonight (11/6/17) and the readme
+is showing up incorrectly due to some error I can't figure out. So sorry for the terrible formatting. It's showing up normal in preview format.
