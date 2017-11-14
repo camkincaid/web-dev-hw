@@ -5,7 +5,7 @@ body {
 header {
   background-color: #add495;
   background-blend-mode: lighten;
-  padding: 50px;
+  padding: 40px;
 }
 
 nav {
@@ -13,7 +13,6 @@ nav {
   height: 60px;
   background-color: #076c42;
   font-family: 'Lora', serif;
-  font-style: none;
   line-height: 55px;
 }
 
@@ -34,7 +33,6 @@ nav a:hover {
   background-color: #add495;
 }
 
-
 nav a:active {
   color: #FFF7DA;
 }
@@ -42,9 +40,45 @@ nav a:active {
 nav a {
   text-decoration: none;
   color: #ffffff;
-  padding: 30px;
+  padding: 25px;
   text-transform: uppercase;
   text-shadow: 2px 2px #000000;
+}
+
+
+.dropdown {
+    display: inline-block;
+
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+
+    color: #ffffff;
+    background-color: #076c42;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #ffffff;
+    font-family: 'Lora', serif;
+
+
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+    text-align: center;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #ffffff;
+    background-color: #add495;
 }
 
 .content {
@@ -56,33 +90,22 @@ nav a {
 main {
   background-color: #FFF7DA;
   flex: 1 1 auto;
-  padding: 250px;
+  padding: 100px;
 
 }
 
 aside {
   background-color: ##fabc73;
   flex: 1 1 auto;
-  padding: 75px;
+  padding: 60px;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-radius: 20px;
+  border-radius: 5px;
   border-style: solid;
   border-color: #add495;
-  border-width: 5px;
-}
-
-footer{
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  border-radius: 30px;
-  border-style: solid;
-  border-color: #add495;
-  border-width: 5px;
+  border-width: 20px;
 }
 
 h1 {
