@@ -33,3 +33,14 @@ to a tennis court.
 
 So I just uploaded my final work for what's due tonight (11/6/17) and the readme
 is showing up incorrectly due to some error I can't figure out. So sorry for the terrible formatting. It's showing up normal in preview format.
+
+<h2> Topic 09: Layout
+<h3> Project Ideas </h3>
+* Header: add logo tennis ball
+* Navigation bar: add "learn more" link with wikipedia to Andre Agassi and/or the official Andre Agassi Website (as drop down menu)
+* Main Content: Pull quote on sample and about pages
+
+
+For my previous readme issue I just created a new readme file and formatting seems to be back to normal!
+
+Final thoughts: Overall this project was fun learning how to style boxes, headers, dropdowns, etc. I am still unable to figure out the font.css page
