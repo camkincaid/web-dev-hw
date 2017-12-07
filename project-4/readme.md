@@ -15,6 +15,5 @@ The secondary content will contain images-- maybe a chart demonstrating the conc
 <h2>Sketch and Wireframe</h2>
 <p>For the color palette, I went online and found one I liked.
 
-![img](/Users/camkincaid/Documents/Homework/web-dev-hw/project-4/images/colorpalette.png)
-
-![img](/Users/camkincaid/Documents/Homework/web-dev-hw/project-4/images/sketch.png)
+![alt text](./images/colorpalette.png "Idea for color palette")
+![alt text](./images/sketch.png "Wireframe sketch")
