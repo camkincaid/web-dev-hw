@@ -18,6 +18,6 @@ The secondary content will contain images-- maybe a chart demonstrating the conc
 <p>For the color palette, I went online and found one I liked.
 
  ****
-This is the screenshot of my palette choice![Screenshot Of my Directory](./images/colorpalette.png)
+This is the screenshot of my palette choice![Screenshot Of Palette](./images/colorpalette.png)
 
-Sketch/wireframe![Screenshot Of my Directory](./images/sketch.png)
+Sketch/wireframe![Sketch/Wireframe](./images/sketch.png)
