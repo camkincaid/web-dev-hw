@@ -1,3 +1,5 @@
+## My last readme.md
+
 <h1>Project 4: The Responsive Site</h1>
 
 <b>What is the information this page aims to deliver?</b><br>
@@ -15,5 +17,7 @@ The secondary content will contain images-- maybe a chart demonstrating the conc
 <h2>Sketch and Wireframe</h2>
 <p>For the color palette, I went online and found one I liked.
 
-![alt text](./images/colorpalette.png "Idea for color palette")
-![alt text](./images/sketch.png "Wireframe sketch")
+ ****
+This is the screenshot of my palette choice![Screenshot Of my Directory](./images/colorpalette.png)
+
+Sketch/wireframe![Screenshot Of my Directory](./images/sketch.png)
